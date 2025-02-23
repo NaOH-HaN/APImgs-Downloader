@@ -10,6 +10,7 @@
 
 > [!CAUTION]
 > 请勿滥用！
+>
 > [默认API][links.defaultAPI] 是免费API服务站点，如果可以，请考虑[捐助][links.defaultAPI.donate]
 
 - 📊 实时监控 - 彩色进度条显示速度/成功率/下载量
@@ -80,11 +81,17 @@
 统计信息示例：
 
 >=== Statistics ===
+>
 >Total Requests:    158
+>
 >Total Downloaded:  142 (89.87%)
+>
 >Total Size:        214.75 MB
+>
 >Average Speed:     1.24 MB/s
+>
 >Peak Speed:        5.68 MB/s
+>
 
 ## 安装
 
